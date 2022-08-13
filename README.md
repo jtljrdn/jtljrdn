@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @bungbloopity
-- 👀 I’m interested in Gaming, Programming
-- 🌱 I’m currently learning Python, JS
-- 💞️ I’m looking to collaborate on Nothing right now! HMU though!
-- 📫 How to reach me: Twitter @jtljrdn and Discord: peter#6666
+**Hi 👋, I'm bunbloopity, you can call me bung or jordan!**
 
-<!---
-bungbloopity/bungbloopity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About me!
+
+I'm currently a Computer Science and Software Engineering student with a hobby for developing programs and gaming!
+
+I use currently Visual Studio to program using FiraCode font, Atom One Dark Theme, and Material Icons!
+
+Below 👇 is a list of projects I have done!
+
+- [Pig Latin Translator](https://bungbloopity.github.io/pig-latin-translator/) [source](https://github.com/bungbloopity/pig-latin-translator)
+
+
+If you need to contact me for anything, please don't hesitate! 
+Reach me on twitter [@jtljrdn](https://twitter.com/jtljrdn) or on discord: bung#6666! 
