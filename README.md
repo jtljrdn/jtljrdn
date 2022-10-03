@@ -8,7 +8,8 @@ I use currently Visual Studio to program using FiraCode font, Atom One Dark Them
 
 ### Below 👇 is a list of projects I have done!
 
-- [Pig Latin Translator](https://bungbloopity.github.io/pig-latin-translator/) [source](https://github.com/bungbloopity/pig-latin-translator)
+- [Pig Latin Translator](https://bungbloopity.github.io/pig-latin-translator/) | [source](https://github.com/bungbloopity/pig-latin-translator)
+- [Vacation Destination Finder](https://bungbloopity.github.io/Vacation-Destination/) | [source](https://github.com/bungbloopity/Vacation-Destination)
 
 ### Future Projects!
 
