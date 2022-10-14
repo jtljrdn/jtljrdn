@@ -2,9 +2,9 @@
 
 ## About me!
 
-I'm currently a Computer Science and Software Engineering student with a hobby for developing programs and gaming!
+I'm currently Software Engineering student with a hobby for developing programs and gaming!
 
-I use currently Visual Studio to program using FiraCode font, Atom One Dark Theme, and Material Icons!
+I use currently Visual Studio Coder w/ FiraCode font, Atom One Dark Theme, and Material Icons!
 
 ### Below 👇 is a list of projects I have done!
 
