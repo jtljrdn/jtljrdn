@@ -1,4 +1,4 @@
-**Hi 👋, I'm bunbloopity, you can call me bung or jordan!**
+**Hi 👋, I'm bungbloopity, you can call me bung or jordan!**
 
 ## About me!
 
