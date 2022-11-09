@@ -4,7 +4,7 @@
 
 I'm currently Software Engineering student with a hobby for developing programs and gaming!
 
-I use currently Visual Studio Code
+I current use Visual Studio Code
 
 ### Below 👇 is a list of projects I have done!
 
