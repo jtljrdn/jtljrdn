@@ -11,5 +11,5 @@ I current use Visual Studio Code
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bungbloopity&show_icons=true&locale=en" alt="bungbloopity" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bungbloopity&show_icons=true&locale=en&layout=compact" alt="bungbloopity" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bungbloopity&show_icons=true&theme=github_dark&locale=en" alt="bungbloopity" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bungbloopity&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="bungbloopity" /></p>
