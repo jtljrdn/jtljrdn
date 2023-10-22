@@ -2,7 +2,7 @@
 
 ## About me!
 
-First-year Software Engineering student at Auburn University
+Software Engineer and Web Developer @ Auburn University
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtljrdn&show_icons=true&theme=github_dark&locale=en" alt="jtljrdn" /></p>
