@@ -1,6 +1,6 @@
 **Jordan Lee**
 
-software engineer, full-stack developer, ai engineer
+software + product engineer, full-stack developer
 
 currently leading full-stack development at Room2Room Movers
 
